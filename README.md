@@ -1,5 +1,7 @@
 # employmanager
 
+### 본 프로젝트는 materailizecss , jquery를 cdn으로 이용하였습니다.
+
 ## Project setup
 
 ```
